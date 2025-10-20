@@ -97,7 +97,7 @@ def matrix_seat_plan():
         print()  # Move to the next line for the next row
 
         
-print("Welcome to SwagAirlines! Where only the sigmas are welcome!")
+print("Welcome to FictionalAirways")
 while True:
     
     print("1: Book a seat")
